@@ -1,7 +1,7 @@
-## Checkers-AI-SV2
+## Checkers in Python
 
 ## About
-Checkers-AI-SV2 is an interactive checkers game developed in Python, utilizing Pygame for a dynamic graphical interface and a Minimax algorithm with alpha-beta pruning for intelligent AI gameplay. The project incorporates a SQLite-based transposition table to optimize move calculations and supports forced capture rules. It serves as an excellent demonstration of advanced algorithms, game development, and GUI programming in Python.
+This is an interactive checkers game developed in Python, utilizing Pygame for a dynamic graphical interface and a Minimax algorithm with alpha-beta pruning for intelligent AI gameplay. The project incorporates a SQLite-based transposition table to optimize move calculations and supports forced capture rules. It serves as an excellent demonstration of advanced algorithms, game development, and GUI programming in Python.
 
 ## Features
 - **Graphical Interface**: Built with Pygame for a responsive and visually appealing checkers board.
@@ -21,11 +21,11 @@ Checkers-AI-SV2 is an interactive checkers game developed in Python, utilizing P
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/checkers-ai-sv2.git
+   git clone https://github.com/ljubogdan/checkers-python
    ```
 2. Navigate to the project directory:
    ```bash
-   cd checkers-ai-sv2
+   cd checkers-python
    ```
 3. Install dependencies:
    ```bash
